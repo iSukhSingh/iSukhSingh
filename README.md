@@ -1,4 +1,3 @@
-[![MasterHead](https://www.canva.com/design/DAFOLZv7MNI/b22AkJBIG771t8meoFo3Qw/edit?utm_content=DAFOLZv7MNI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 <h1 align="center">Hi 👋, I'm Sukh</h1>
