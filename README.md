@@ -1,5 +1,6 @@
 
 
+
 <h1 align="center">Hi 👋, I'm Sukh</h1>
 <h3 align="center">A passionate developer Califronia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
@@ -20,9 +21,6 @@
 <h3 align="left">Support:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cali1204&show_icons=true&locale=en&layout=compact" alt="cali1204" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cali1204&show_icons=true&locale=en" alt="cali1204" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cali1204&" alt="cali1204" /></p>
 
