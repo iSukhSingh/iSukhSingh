@@ -1,9 +1,9 @@
-[![MasterHead](https://www.canva.com/design/DAFOLZv7MNI/b22AkJBIG771t8meoFo3Qw/edit?utm_content=DAFOLZv7MNI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 
 <h1 align="center">Hi 👋, I'm Sukh</h1>
 <h3 align="center">A passionate developer Califronia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
 - 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **MERN, React, SQL**
