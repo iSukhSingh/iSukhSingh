@@ -21,4 +21,10 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cali1204&" alt="cali1204" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cali1204&show_icons=true&locale=en&layout=compact" alt="cali1204" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cali1204&show_icons=true&locale=en" alt="cali1204" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cali1204&" alt="cali1204" /></p>
+
 
