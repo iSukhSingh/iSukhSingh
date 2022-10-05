@@ -1,9 +1,9 @@
-![Profile views](https://gpvc.arturio.dev/cali1204)  
-![I am GitHub Readme Generator's creator](https://github.com/cali1204/cali1204/blob/main/Pink%20and%20Purple%20Professional%20LinkedIn%20Banner.jpg)
+![Profile views](https://gpvc.arturio.dev/isukhsing)  
+![I am GitHub Readme Generator's creator](https://github.com/isukhsing/isukhsing/blob/main/Pink%20and%20Purple%20Professional%20LinkedIn%20Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Sukh</h1>
 <h3 align="center">A passionate developer from Califronia</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/cali1204/cali1204/blob/main/hello.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/isukhsing/isukhsing/blob/main/hello.gif">
 - 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **MERN, React, SQL**
@@ -27,7 +27,7 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cali1204)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cali1204)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=isukhsing)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=isukhsing)  
 
 
