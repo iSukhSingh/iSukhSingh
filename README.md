@@ -18,5 +18,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cali1204&" alt="cali1204" /></p>
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cali1204)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cali1204)  
+
+![Profile views](https://gpvc.arturio.dev/cali1204)  
 
