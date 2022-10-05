@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/isukhsing)  
-![I am GitHub Readme Generator's creator](https://github.com/isukhsing/isukhsing/blob/main/Pink%20and%20Purple%20Professional%20LinkedIn%20Banner.jpg)
+![I am GitHub Readme Generator's creator](https://github.com/iSukhSingh/iSukhSingh/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Sukh</h1>
 <h3 align="center">A passionate developer from Califronia</h3>
