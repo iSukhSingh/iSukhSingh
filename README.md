@@ -1,3 +1,4 @@
+![I am GitHub Readme Generator's creator](https://github.com/cali1204/cali1204/blob/main/Pink%20and%20Purple%20Professional%20LinkedIn%20Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Sukh</h1>
 <h3 align="center">A passionate developer from Califronia</h3>
