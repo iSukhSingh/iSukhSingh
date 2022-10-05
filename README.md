@@ -1,9 +1,9 @@
-
+[![MasterHead](https://www.canva.com/design/DAFOLZv7MNI/b22AkJBIG771t8meoFo3Qw/edit?utm_content=DAFOLZv7MNI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 <h1 align="center">Hi 👋, I'm Sukh</h1>
 <h3 align="center">A passionate developer Califronia</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 - 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **MERN, React, SQL**
@@ -19,7 +19,6 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ss29705626"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ss29705626" /></a></p><br><br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cali1204&show_icons=true&locale=en&layout=compact" alt="cali1204" /></p>
@@ -28,19 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cali1204&" alt="cali1204" /></p>
 
-
-
-<!--
-**cali1204/cali1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
