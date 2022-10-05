@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Sukh</h1>
 <h3 align="center">A passionate developer from Califronia</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/isukhsing/isukhsing/blob/main/hello.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/iSukhSingh/iSukhSingh/blob/main/hello.gif">
 - 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **MERN, React, SQL**
