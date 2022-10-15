@@ -4,9 +4,10 @@
 <h1 align="center">Hi 👋, I'm Sukh</h1>
 <h3 align="center">A passionate developer from California</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/iSukhSingh/iSukhSingh/blob/main/hello.gif">
-- 🌱 I’m currently learning **AWS**
-
+- 🌱 I’m currently learning **AWS** 
 - 💬 Ask me about **MERN, React, SQL**
+- 💡 Always searching for new creative ideas to be used in personal projects. 
+-⚡ Fun fact: I'm learning a new language/framework/library almost every single week - trying out everything :)
 
 
 <h3 align="left">Connect with me:</h3>
