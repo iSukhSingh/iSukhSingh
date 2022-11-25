@@ -2,6 +2,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/iSukhSingh/iSukhSingh/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Sukh</h1>
+
 <h3 align="center">A passionate developer from California</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/iSukhSingh/iSukhSingh/blob/main/hello.gif">
 - 🌱 I’m currently learning **AWS** 
