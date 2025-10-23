@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/isukhsing)
+
 ![I am GitHub Readme Generator's creator](https://github.com/iSukhSingh/iSukhSingh/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Sukh</h1>
