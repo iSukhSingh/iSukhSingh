@@ -35,8 +35,6 @@
 
 ### 📫 Connect
 - Email: **sukh1996singh@gmail.com**  
-- LinkedIn: *add your link here*  
-- Portfolio: *add your site here*
 
 ---
 
@@ -68,10 +66,3 @@
 </p>
 
 
----
-
-### ⭐ Quick Highlights
-- Built secure, role-based admin portals with **ASP.NET Core + React**  
-- Designed relational schemas and **ETL** flows for analytics dashboards  
-- Automated deployments on **AWS** and containerized services with **Docker**  
-- Integrated **Telegram/Webhook** notifications and third-party APIs
